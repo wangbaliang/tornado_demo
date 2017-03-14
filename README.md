@@ -1,1 +1,3 @@
 # tornado_demo
+
+此项目为应用python的非阻塞web服务器框架tornado的演示
